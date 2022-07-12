@@ -952,7 +952,7 @@ body {
         background-repeat: no-repeat;
         background-size: 100%;
         z-index: 6;
-        margin-top: -140px;
+        margin: -140px auto 0px;
     }
     .main-block6__column1 {
         display: none;
