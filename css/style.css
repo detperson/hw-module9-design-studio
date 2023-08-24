@@ -884,6 +884,10 @@ body {
     color: #FFFFFF;
     margin-bottom: 10px;
 }
+.main-block6__item :hover {
+    color: #E3B873;
+    cursor: pointer;
+}
 .main-block6__item-active {
     border-bottom: 1px #E3B873 solid;
     width: max-content;
